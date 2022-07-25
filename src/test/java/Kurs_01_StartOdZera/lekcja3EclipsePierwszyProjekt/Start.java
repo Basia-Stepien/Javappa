@@ -1,4 +1,4 @@
-package lesson_3_Eclipse_Pierwszy_projekt;
+package Kurs_01_StartOdZera.lekcja3EclipsePierwszyProjekt;
 
 public class Start {
 
