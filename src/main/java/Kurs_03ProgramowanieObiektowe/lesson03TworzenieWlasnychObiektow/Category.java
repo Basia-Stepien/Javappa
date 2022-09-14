@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson03WlasneObiekty;
+package Kurs_03ProgramowanieObiektowe.lesson03TworzenieWlasnychObiektow;
 
 public class Category {
 
