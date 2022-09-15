@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson03TworzenieWlasnychObiektow;
+package Kurs_03ProgramowanieObiektowe.lesson01_10.lesson04RodzajeMetodWRamachObiektu;
 
 public class Item {
 
@@ -6,10 +6,17 @@ public class Item {
     String name;
     Category category;
 
-    public Item(int id, String name, Category category) {
+    public Item(String name, Category category) {
         this.id = id;
         this.name = name;
         this.category = category;
+    }
+
+    void printItemData() {
+        System.out.println(this.name);
+        // getName() to inna metoda zdefiniowana w klasie Item
+        System.out.println(this.getName());
+        System.out.println(this.category.getName());
     }
 
     public void setId(int id) {
@@ -33,6 +40,6 @@ public class Item {
     }
 
     public Category getCategory() {
-        return category;
+        return this.category;
     }
 }

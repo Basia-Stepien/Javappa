@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson06TypyObiektowe;
+package Kurs_03ProgramowanieObiektowe.lesson01_10.lesson06TypyObiektowe;
 
 public class Main {
     public static void main(String[] args) {

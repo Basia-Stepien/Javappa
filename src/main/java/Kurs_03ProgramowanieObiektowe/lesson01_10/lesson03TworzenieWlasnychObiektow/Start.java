@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson03TworzenieWlasnychObiektow;
+package Kurs_03ProgramowanieObiektowe.lesson01_10.lesson03TworzenieWlasnychObiektow;
 
 public class Start {
     public static void main(String[] args) {

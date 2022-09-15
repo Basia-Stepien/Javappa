@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson05MetodyStatyczne;
+package Kurs_03ProgramowanieObiektowe.lesson01_10.lesson05MetodyStatyczne;
 
 public class Start {
     public static void main(String[] args) {

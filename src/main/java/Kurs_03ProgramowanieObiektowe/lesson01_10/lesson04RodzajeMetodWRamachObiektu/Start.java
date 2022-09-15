@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson04RodzajeMetodWRamachObiektu;
+package Kurs_03ProgramowanieObiektowe.lesson01_10.lesson04RodzajeMetodWRamachObiektu;
 
 public class Start {
     public static void main(String[] args) {

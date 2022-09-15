@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson02KlasyIProgramyObiektowe;
+package Kurs_03ProgramowanieObiektowe.lesson01_10.lesson02KlasyIProgramyObiektowe;
 
 public class Item {
     int id;

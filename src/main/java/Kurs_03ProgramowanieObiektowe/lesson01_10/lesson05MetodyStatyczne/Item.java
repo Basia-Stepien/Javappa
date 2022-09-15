@@ -1,22 +1,20 @@
-package Kurs_03ProgramowanieObiektowe.lesson04RodzajeMetodWRamachObiektu;
+package Kurs_03ProgramowanieObiektowe.lesson01_10.lesson05MetodyStatyczne;
 
 public class Item {
 
     int id;
     String name;
-    Category category;
 
-    public Item(String name, Category category) {
+    public Item(String name) {
         this.id = id;
         this.name = name;
-        this.category = category;
+
     }
 
     void printItemData() {
         System.out.println(this.name);
         // getName() to inna metoda zdefiniowana w klasie Item
         System.out.println(this.getName());
-        System.out.println(this.category.getName());
     }
 
     public void setId(int id) {
@@ -33,13 +31,5 @@ public class Item {
 
     public String getName() {
         return name;
-    }
-
-    public void setCategory(Category category) {
-        this.category = category;
-    }
-
-    public Category getCategory() {
-        return this.category;
     }
 }

@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson07KlasaString;
+package Kurs_03ProgramowanieObiektowe.lesson01_10.lesson07KlasaString;
 
 public class Start {
     public static void main(String[] args) {
@@ -40,8 +40,6 @@ public class Start {
 
         String itemNameOfItam = itemName06.replace('e','a');
         System.out.println("itemNameOfItam = " + itemNameOfItam);
-
-
 
         String itemNamePrefix = "Fourth";
         String itemNameBase = "Item";
