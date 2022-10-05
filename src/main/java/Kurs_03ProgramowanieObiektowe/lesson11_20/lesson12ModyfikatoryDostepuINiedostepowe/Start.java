@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson11_21.lesson12ModyfikatoryDostepuINiedostepowe;
+package Kurs_03ProgramowanieObiektowe.lesson11_20.lesson12ModyfikatoryDostepuINiedostepowe;
 
 public class Start {
     public static void main(String[] args) {

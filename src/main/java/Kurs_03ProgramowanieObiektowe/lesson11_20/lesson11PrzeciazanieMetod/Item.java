@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson11_21.lesson11PrzeciazanieMetod;
+package Kurs_03ProgramowanieObiektowe.lesson11_20.lesson11PrzeciazanieMetod;
 
 public class Item {
     int id;

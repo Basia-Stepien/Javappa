@@ -1,4 +1,4 @@
-package Kurs_03ProgramowanieObiektowe.lesson11_21.lesson13KlasyAbstrakcyjne;
+package Kurs_03ProgramowanieObiektowe.lesson11_20.lesson13KlasyAbstrakcyjne;
 
 public class ExcelDocumentItem extends DocumentItem {
 
